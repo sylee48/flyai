@@ -1,3 +1,1 @@
 # flyai-project
-
-name = ??
