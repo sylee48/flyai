@@ -1,1 +1,1 @@
-# flyai-project
+# SKT - FlyAi
